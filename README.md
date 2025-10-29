@@ -14,4 +14,8 @@ Astro heeft een new frontend architectuur patroon dat "Islands Architecture" hee
 Islands zorgen ervoor dat eerst alle statische HTML gerenderd wordt en dat daarna pas de Javascript in delen ingeladen wordt. Dit zorgt ervoor dat de website niet in 1x alle javascript aan het begin hoeft in te laden. Dit zorgt ervoor dat Astro in sneller werkt dan sommige andere JS frameworks.
 hier meer over islands (https://docs.astro.build/en/concepts/islands/#what-is-an-island).
 
+Astro heeft ook build in view transitions. Normale zijn al bijna baseline dus hier heb ik me niet echt in verdiept.
+
 Ik vind zelf de Astro documentatie duideljk en er zijn genoeg tutorials.
+
+Ik denk dat ik prima een portfolio website zou kunnen bouwen in Astro. Ik vind het vergelijkbaar met SvelteKit.
